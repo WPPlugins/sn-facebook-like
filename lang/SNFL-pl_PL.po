@@ -1,0 +1,304 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: SN Facebook Like\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-11-14 11:04+0100\n"
+"PO-Revision-Date: 2011-11-14 11:05+0100\n"
+"Last-Translator: Mateusz Lerczak <kiki.diavo@gmail.com>\n"
+"Language-Team: Mateusz Lerczak <kiki.diavo@gmail.com>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: /home/retio/Strony/retioVPS/webovers.pl/wp-content/plugins/sn-facebook-like\n"
+"X-Poedit-Language: Polish\n"
+"X-Poedit-Country: POLAND\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: /home/retio/Strony/retioVPS/webovers.pl/wp-content/plugins/sn-facebook-like\n"
+
+#: /home/retio/Strony/retioVPS/webovers.pl/wp-content/plugins/sn-facebook-like/sn-facebook-like-admin.php:19
+#: /home/retio/Strony/retioVPS/webovers.pl/wp-content/plugins/sn-facebook-like/admin/left.php:1
+msgid "Settings"
+msgstr "Ustawienia"
+
+#: /home/retio/Strony/retioVPS/webovers.pl/wp-content/plugins/sn-facebook-like/sn-facebook-like.php:15
+msgid "\"SN Facebook Like\" works on WP 3.0+"
+msgstr "\"SN Facebook Like\" działa na WP 3.1+"
+
+#: /home/retio/Strony/retioVPS/webovers.pl/wp-content/plugins/sn-facebook-like/admin/main.php:3
+msgid "SN Facebook Like options"
+msgstr "SN Facebook Like opcje"
+
+#: /home/retio/Strony/retioVPS/webovers.pl/wp-content/plugins/sn-facebook-like/admin/right.php:1
+msgid "Donate"
+msgstr "Dotacja"
+
+#: /home/retio/Strony/retioVPS/webovers.pl/wp-content/plugins/sn-facebook-like/admin/right.php:10
+msgid "Like me"
+msgstr "Polub mnie"
+
+#: /home/retio/Strony/retioVPS/webovers.pl/wp-content/plugins/sn-facebook-like/admin/left/slider.php:2
+msgid "Slider settings"
+msgstr "Ustawienia slidera"
+
+#: /home/retio/Strony/retioVPS/webovers.pl/wp-content/plugins/sn-facebook-like/admin/left/slider.php:7
+msgid "Position:"
+msgstr "Pozycja:"
+
+#: /home/retio/Strony/retioVPS/webovers.pl/wp-content/plugins/sn-facebook-like/admin/left/slider.php:10
+msgid "left"
+msgstr "lewa"
+
+#: /home/retio/Strony/retioVPS/webovers.pl/wp-content/plugins/sn-facebook-like/admin/left/slider.php:11
+msgid "right"
+msgstr "prawa"
+
+#: /home/retio/Strony/retioVPS/webovers.pl/wp-content/plugins/sn-facebook-like/admin/left/slider.php:12
+msgid "top"
+msgstr "góra"
+
+#: /home/retio/Strony/retioVPS/webovers.pl/wp-content/plugins/sn-facebook-like/admin/left/slider.php:13
+msgid "bottom"
+msgstr "dół"
+
+#: /home/retio/Strony/retioVPS/webovers.pl/wp-content/plugins/sn-facebook-like/admin/left/slider.php:16
+msgid "Position of slider"
+msgstr "Pozycja slidera"
+
+#: /home/retio/Strony/retioVPS/webovers.pl/wp-content/plugins/sn-facebook-like/admin/left/slider.php:19
+msgid "Top position:"
+msgstr "Górny odstęp:"
+
+#: /home/retio/Strony/retioVPS/webovers.pl/wp-content/plugins/sn-facebook-like/admin/left/slider.php:21
+msgid "Number of pixels from the top edge (Works only at left or right position)"
+msgstr "Liczba pikseli od górnej krawędzi (działa tylko w pozycji lewa lub prawa)"
+
+#: /home/retio/Strony/retioVPS/webovers.pl/wp-content/plugins/sn-facebook-like/admin/left/slider.php:24
+msgid "Left position:"
+msgstr "Lewy odstęp:"
+
+#: /home/retio/Strony/retioVPS/webovers.pl/wp-content/plugins/sn-facebook-like/admin/left/slider.php:26
+msgid "Number of pixels from the left edge (Works only at top or bottom position)"
+msgstr "Liczba pikseli od lewej krawędzi (działa tylko w pozycji góra lub dół)"
+
+#: /home/retio/Strony/retioVPS/webovers.pl/wp-content/plugins/sn-facebook-like/admin/left/slider.php:29
+msgid "Logo position:"
+msgstr "Pozycja loga:"
+
+#: /home/retio/Strony/retioVPS/webovers.pl/wp-content/plugins/sn-facebook-like/admin/left/slider.php:31
+msgid "Logo position in px"
+msgstr "Pozycja logo w pikselach"
+
+#: /home/retio/Strony/retioVPS/webovers.pl/wp-content/plugins/sn-facebook-like/admin/left/slider.php:34
+msgid "Action:"
+msgstr "Akcja:"
+
+#: /home/retio/Strony/retioVPS/webovers.pl/wp-content/plugins/sn-facebook-like/admin/left/slider.php:37
+msgid "hover"
+msgstr "najechanie"
+
+#: /home/retio/Strony/retioVPS/webovers.pl/wp-content/plugins/sn-facebook-like/admin/left/slider.php:38
+msgid "click"
+msgstr "kliknięcie"
+
+#: /home/retio/Strony/retioVPS/webovers.pl/wp-content/plugins/sn-facebook-like/admin/left/slider.php:41
+msgid "Slider action after hover or click"
+msgstr "Akcja slidera po najechaniu lub kliknięciu"
+
+#: /home/retio/Strony/retioVPS/webovers.pl/wp-content/plugins/sn-facebook-like/admin/left/slider.php:44
+msgid "Open time:"
+msgstr "Czas otwarcia:"
+
+#: /home/retio/Strony/retioVPS/webovers.pl/wp-content/plugins/sn-facebook-like/admin/left/slider.php:46
+msgid "Slider opening time in ms."
+msgstr "Czas otwarcia slidera w ms."
+
+#: /home/retio/Strony/retioVPS/webovers.pl/wp-content/plugins/sn-facebook-like/admin/left/slider.php:49
+msgid "Close time:"
+msgstr "Czas zamknięcia:"
+
+#: /home/retio/Strony/retioVPS/webovers.pl/wp-content/plugins/sn-facebook-like/admin/left/slider.php:51
+msgid "Slider closing time in ms."
+msgstr "Czas zamknięcia slider w ms."
+
+#: /home/retio/Strony/retioVPS/webovers.pl/wp-content/plugins/sn-facebook-like/admin/left/slider.php:55
+msgid "Rounded corners:"
+msgstr "Zaokrąglone rogi:"
+
+#: /home/retio/Strony/retioVPS/webovers.pl/wp-content/plugins/sn-facebook-like/admin/left/slider.php:58
+#: /home/retio/Strony/retioVPS/webovers.pl/wp-content/plugins/sn-facebook-like/admin/left/likebutton.php:36
+#: /home/retio/Strony/retioVPS/webovers.pl/wp-content/plugins/sn-facebook-like/admin/left/likebox.php:25
+#: /home/retio/Strony/retioVPS/webovers.pl/wp-content/plugins/sn-facebook-like/admin/left/likebox.php:35
+#: /home/retio/Strony/retioVPS/webovers.pl/wp-content/plugins/sn-facebook-like/admin/left/likebox.php:45
+msgid "yes"
+msgstr "tak"
+
+#: /home/retio/Strony/retioVPS/webovers.pl/wp-content/plugins/sn-facebook-like/admin/left/slider.php:59
+#: /home/retio/Strony/retioVPS/webovers.pl/wp-content/plugins/sn-facebook-like/admin/left/likebutton.php:37
+#: /home/retio/Strony/retioVPS/webovers.pl/wp-content/plugins/sn-facebook-like/admin/left/likebox.php:26
+#: /home/retio/Strony/retioVPS/webovers.pl/wp-content/plugins/sn-facebook-like/admin/left/likebox.php:36
+#: /home/retio/Strony/retioVPS/webovers.pl/wp-content/plugins/sn-facebook-like/admin/left/likebox.php:46
+msgid "no"
+msgstr "nie"
+
+#: /home/retio/Strony/retioVPS/webovers.pl/wp-content/plugins/sn-facebook-like/admin/left/slider.php:62
+#: /home/retio/Strony/retioVPS/webovers.pl/wp-content/plugins/sn-facebook-like/admin/left/slider.php:74
+msgid "Start opacity of \"SN Facebook Like\" box"
+msgstr "Początkowa przezroczystość boksu SN Facebook Like"
+
+#: /home/retio/Strony/retioVPS/webovers.pl/wp-content/plugins/sn-facebook-like/admin/left/slider.php:66
+msgid "Start opacity:"
+msgstr "Początkowa przezroczystość:"
+
+#: /home/retio/Strony/retioVPS/webovers.pl/wp-content/plugins/sn-facebook-like/admin/left/slider.php:78
+msgid "Open opacity:"
+msgstr "Przezroczystość otwarcia:"
+
+#: /home/retio/Strony/retioVPS/webovers.pl/wp-content/plugins/sn-facebook-like/admin/left/slider.php:86
+msgid "Open opacity of \"SN Facebook Like\" box"
+msgstr "Przezroczystość boksu \"SN Facebook Like\" po otwarciu"
+
+#: /home/retio/Strony/retioVPS/webovers.pl/wp-content/plugins/sn-facebook-like/admin/left/slider.php:90
+msgid "Close opacity:"
+msgstr "Przezroczystość zamknięcia:"
+
+#: /home/retio/Strony/retioVPS/webovers.pl/wp-content/plugins/sn-facebook-like/admin/left/slider.php:98
+msgid "Close opacity of \"SN Facebook Like\" box"
+msgstr "Przezroczystość bosku \"SN Facebook Like\" po zamknięciu"
+
+#: /home/retio/Strony/retioVPS/webovers.pl/wp-content/plugins/sn-facebook-like/admin/left/slider.php:102
+msgid "Icon:"
+msgstr "Ikona:"
+
+#: /home/retio/Strony/retioVPS/webovers.pl/wp-content/plugins/sn-facebook-like/admin/left/slider.php:119
+msgid "Slider icon"
+msgstr "Ikona slidera"
+
+#: /home/retio/Strony/retioVPS/webovers.pl/wp-content/plugins/sn-facebook-like/admin/left/slider.php:125
+#: /home/retio/Strony/retioVPS/webovers.pl/wp-content/plugins/sn-facebook-like/admin/left/likebutton.php:57
+#: /home/retio/Strony/retioVPS/webovers.pl/wp-content/plugins/sn-facebook-like/admin/left/primary.php:25
+#: /home/retio/Strony/retioVPS/webovers.pl/wp-content/plugins/sn-facebook-like/admin/left/likebox.php:56
+msgid "Save settings"
+msgstr "Zapisz ustawienia"
+
+#: /home/retio/Strony/retioVPS/webovers.pl/wp-content/plugins/sn-facebook-like/admin/left/likebutton.php:2
+msgid "Settings - Like Button"
+msgstr "Ustawienia - Guzik Lubię to"
+
+#: /home/retio/Strony/retioVPS/webovers.pl/wp-content/plugins/sn-facebook-like/admin/left/likebutton.php:7
+msgid "Layout style:"
+msgstr "Styl układu:"
+
+#: /home/retio/Strony/retioVPS/webovers.pl/wp-content/plugins/sn-facebook-like/admin/left/likebutton.php:10
+msgid "standard"
+msgstr "standard"
+
+#: /home/retio/Strony/retioVPS/webovers.pl/wp-content/plugins/sn-facebook-like/admin/left/likebutton.php:11
+msgid "button_count"
+msgstr "button_count"
+
+#: /home/retio/Strony/retioVPS/webovers.pl/wp-content/plugins/sn-facebook-like/admin/left/likebutton.php:12
+msgid "box_count"
+msgstr "box_count"
+
+#: /home/retio/Strony/retioVPS/webovers.pl/wp-content/plugins/sn-facebook-like/admin/left/likebutton.php:15
+msgid "Determines the size and amount of social context next to the button."
+msgstr "Określa wielkość i ilość kontekstu obok guzika."
+
+#: /home/retio/Strony/retioVPS/webovers.pl/wp-content/plugins/sn-facebook-like/admin/left/likebutton.php:18
+#: /home/retio/Strony/retioVPS/webovers.pl/wp-content/plugins/sn-facebook-like/admin/left/likebox.php:7
+msgid "Width:"
+msgstr "Szerokość:"
+
+#: /home/retio/Strony/retioVPS/webovers.pl/wp-content/plugins/sn-facebook-like/admin/left/likebutton.php:20
+#: /home/retio/Strony/retioVPS/webovers.pl/wp-content/plugins/sn-facebook-like/admin/left/likebox.php:9
+msgid "The width of the plugin in pixels."
+msgstr "Szerokość pluginu w pikselach."
+
+#: /home/retio/Strony/retioVPS/webovers.pl/wp-content/plugins/sn-facebook-like/admin/left/likebutton.php:23
+#: /home/retio/Strony/retioVPS/webovers.pl/wp-content/plugins/sn-facebook-like/admin/left/likebox.php:12
+msgid "Color scheme:"
+msgstr "Schemat kolorów:"
+
+#: /home/retio/Strony/retioVPS/webovers.pl/wp-content/plugins/sn-facebook-like/admin/left/likebutton.php:26
+#: /home/retio/Strony/retioVPS/webovers.pl/wp-content/plugins/sn-facebook-like/admin/left/likebox.php:15
+msgid "light"
+msgstr "jasny"
+
+#: /home/retio/Strony/retioVPS/webovers.pl/wp-content/plugins/sn-facebook-like/admin/left/likebutton.php:27
+#: /home/retio/Strony/retioVPS/webovers.pl/wp-content/plugins/sn-facebook-like/admin/left/likebox.php:16
+msgid "dark"
+msgstr "ciemny"
+
+#: /home/retio/Strony/retioVPS/webovers.pl/wp-content/plugins/sn-facebook-like/admin/left/likebutton.php:30
+#: /home/retio/Strony/retioVPS/webovers.pl/wp-content/plugins/sn-facebook-like/admin/left/likebox.php:19
+msgid "The color scheme of the plugin."
+msgstr "Schemat kolorów pluginu."
+
+#: /home/retio/Strony/retioVPS/webovers.pl/wp-content/plugins/sn-facebook-like/admin/left/likebutton.php:33
+#: /home/retio/Strony/retioVPS/webovers.pl/wp-content/plugins/sn-facebook-like/admin/left/likebox.php:22
+msgid "Show faces:"
+msgstr "Pokazuj twarze:"
+
+#: /home/retio/Strony/retioVPS/webovers.pl/wp-content/plugins/sn-facebook-like/admin/left/likebutton.php:40
+#: /home/retio/Strony/retioVPS/webovers.pl/wp-content/plugins/sn-facebook-like/admin/left/likebox.php:29
+msgid "Show profile photos in the plugin."
+msgstr "Pokazuj zdjęcia profili w pluginie."
+
+#: /home/retio/Strony/retioVPS/webovers.pl/wp-content/plugins/sn-facebook-like/admin/left/likebutton.php:43
+msgid "Verb to display:"
+msgstr "Słowo to wyświetlenia:"
+
+#: /home/retio/Strony/retioVPS/webovers.pl/wp-content/plugins/sn-facebook-like/admin/left/likebutton.php:46
+msgid "like"
+msgstr "Lubię to!"
+
+#: /home/retio/Strony/retioVPS/webovers.pl/wp-content/plugins/sn-facebook-like/admin/left/likebutton.php:47
+msgid "recommend"
+msgstr "Poleć"
+
+#: /home/retio/Strony/retioVPS/webovers.pl/wp-content/plugins/sn-facebook-like/admin/left/likebutton.php:50
+msgid "The verb to display in the button."
+msgstr "Słowo do wyświetlenia w guziku"
+
+#: /home/retio/Strony/retioVPS/webovers.pl/wp-content/plugins/sn-facebook-like/admin/left/primary.php:5
+msgid "Facebook<br />Page URL:"
+msgstr "Strona na Facebooku:"
+
+#: /home/retio/Strony/retioVPS/webovers.pl/wp-content/plugins/sn-facebook-like/admin/left/primary.php:10
+msgid "e.g. <i>"
+msgstr "n.p<i>"
+
+#: /home/retio/Strony/retioVPS/webovers.pl/wp-content/plugins/sn-facebook-like/admin/left/primary.php:13
+msgid "Facebook<br />Like Plugin:"
+msgstr "Plugin Facebook Lubię"
+
+#: /home/retio/Strony/retioVPS/webovers.pl/wp-content/plugins/sn-facebook-like/admin/left/primary.php:16
+msgid "Like Box"
+msgstr "Boks lubię to"
+
+#: /home/retio/Strony/retioVPS/webovers.pl/wp-content/plugins/sn-facebook-like/admin/left/primary.php:17
+msgid "Like Button"
+msgstr "Guzik lubię to"
+
+#: /home/retio/Strony/retioVPS/webovers.pl/wp-content/plugins/sn-facebook-like/admin/left/likebox.php:2
+msgid "Settings - Like Box"
+msgstr "Ustawienia - Boks lubię to"
+
+#: /home/retio/Strony/retioVPS/webovers.pl/wp-content/plugins/sn-facebook-like/admin/left/likebox.php:32
+msgid "Stream:"
+msgstr "Strumień:"
+
+#: /home/retio/Strony/retioVPS/webovers.pl/wp-content/plugins/sn-facebook-like/admin/left/likebox.php:39
+msgid "Show the profile stream for the public profile."
+msgstr "Pokazuj strumień profilu dla publicznego profilu"
+
+#: /home/retio/Strony/retioVPS/webovers.pl/wp-content/plugins/sn-facebook-like/admin/left/likebox.php:42
+msgid "Header:"
+msgstr "Nagłówek:"
+
+#: /home/retio/Strony/retioVPS/webovers.pl/wp-content/plugins/sn-facebook-like/admin/left/likebox.php:49
+msgid "Show the \"Find us on Facebook\" bar at top. Only shown when either stream or faces are present."
+msgstr "Pokazuj nagłówek \"Znajdź nas na Facebooku\" na górze.  Pojawia się tylko wtedy, gdy strumienie lub twarze są włączone."
+
